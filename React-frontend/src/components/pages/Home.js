@@ -79,8 +79,8 @@ const Home = () => {
               alt="First slide"
             />
             <Carousel.Caption>
-              <h1 style={{fontSize:'70px',textShadow:'2px 2px 5px black'}}>First slide label</h1>
-              <p style={{fontSize:'25px',textShadow:'2px 2px 5px black'}} >Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+              <h1 style={{fontSize:'70px',textShadow:'2px 2px 5px black'}}>Booking made simple,</h1>
+              <p style={{fontSize:'35px',textShadow:'2px 2px 5px black'}} >healthcare made accessible.</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -91,8 +91,8 @@ const Home = () => {
             />
     
             <Carousel.Caption>
-              <h3 style={{fontSize:'70px',textShadow:'2px 2px 5px black'}}>Second slide label</h3>
-              <p style={{fontSize:'25px',textShadow:'2px 2px 5px black'}}>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h3 style={{fontSize:'70px',textShadow:'2px 2px 5px black'}}>Taking care of you,</h3>
+              <p style={{fontSize:'35px',textShadow:'2px 2px 5px black'}}>one appointment at a time.</p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
@@ -103,10 +103,9 @@ const Home = () => {
             />
     
             <Carousel.Caption>
-              <h3 style={{fontSize:'70px',textShadow:'2px 2px 5px black'}}>Third slide label</h3>
-              <p style={{fontSize:'25px',textShadow:'2px 2px 5px black'}}>
-                Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-              </p>
+              <h3 style={{fontSize:'70px',textShadow:'2px 2px 5px black'}}>Expert care,</h3>
+              <p style={{fontSize:'35px',textShadow:'2px 2px 5px black'}}>
+              just a click away.</p>
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
@@ -117,8 +116,10 @@ const Home = () => {
           <Row>
             <Col class=" my-5 text-center" >
             <p style={{fontSize:'27px' , fontWeight:'300', marginLeft:'270px', marginRight:'270px'}}>
-            Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-            </p>
+            Welcome to Doceasy, the premier destination for hassle-free doctor appointment booking. We understand that managing your health can be a complex and time-consuming task. That's why we've created a user-friendly platform that puts you in control of your healthcare journey.
+            With Doceasy, scheduling your next doctor's appointment is as simple as a few clicks. Say goodbye to endless phone calls, long hold times, and frustrating scheduling conflicts. Our intuitive interface allows you to effortlessly browse through a vast network of trusted healthcare providers, specialties, and convenient appointment slots.
+            At Doceasy, we believe that access to quality healthcare should be effortless. We are dedicated to empowering you to take charge of your well-being by providing a seamless, reliable, and patient-centric appointment booking experience. Join us today and experience the convenience of Doceasy – your pathway to simplified healthcare.
+             </p>
             </Col>
           </Row>
          </Container>

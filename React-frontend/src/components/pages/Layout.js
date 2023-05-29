@@ -21,15 +21,15 @@ const Layout = () => {
               <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="me-auto">
                   
-                   <Link to="/home" style={{textDecoration:'none',marginLeft: '270px', fontSize:'20px'}} className="nav-link">Home</Link>
+                   <Link to="/" style={{textDecoration:'none',marginLeft: '270px', fontSize:'20px'}} className="nav-link">Home</Link>
                     
                     <Link to="/about" style={{textDecoration:'none',marginLeft: '40px',fontSize:'20px'}} className="nav-link">About</Link>
                    
-                    <Link to="/departments" style={{textDecoration:'none',marginLeft: '40px',fontSize:'20px'}} className="nav-link">Departments</Link>
+                    <Link to="/doctors" style={{textDecoration:'none',marginLeft: '40px',fontSize:'20px'}} className="nav-link">Doctors</Link>
                   <Link to="/contact"style={{textDecoration:'none',marginLeft: '40px',fontSize:'20px'}} className="nav-link" >Contact</Link>
 
-                  <Link to="/" style={{textDecoration:'none',marginLeft: '120px',fontSize:'18px',color:'white', width:'185px',textAlign:'center', fontWeight:'600'}}  className="btn btn-success"> Make appointment</Link>
-                  <Link to="/" style={{textDecoration:'none',marginLeft: '25px',fontSize:'18px',color:'white',width:'85px',textAlign:'center', fontWeight:'600' }} className="btn btn-dark">Login</Link>
+                  <Link to="/list-appointment" style={{textDecoration:'none',marginLeft: '120px',fontSize:'18px',color:'white', width:'185px',textAlign:'center', fontWeight:'600'}}  className="btn btn-success"> Make appointment</Link>
+                  <Link to="/login" style={{textDecoration:'none',marginLeft: '25px',fontSize:'18px',color:'white',width:'85px',textAlign:'center', fontWeight:'600' }} className="btn btn-dark">Login</Link>
                  
                  
                  

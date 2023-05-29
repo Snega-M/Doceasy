@@ -41,10 +41,10 @@ const Footer = () => {
         
         <Column>
           <Heading>Contact Us</Heading>
-          <FooterLink href="#">Uttar Pradesh</FooterLink>
-          <FooterLink href="#">Ahemdabad</FooterLink>
-          <FooterLink href="#">Indore</FooterLink>
-          <FooterLink href="#">Mumbai</FooterLink>
+          <FooterLink href="#">contact@doceasy.com</FooterLink>
+          <FooterLink href="#">(555)123-4567</FooterLink>
+          <FooterLink href="#">44/8 Krishna nagar, 1st Main road, Gandhi nagar, Puducherry , Tamilnadu - 605001</FooterLink>
+          
         </Column>
         <Column>
           <Heading>Social Media</Heading>
