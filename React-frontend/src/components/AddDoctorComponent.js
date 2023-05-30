@@ -67,7 +67,7 @@ const AddDoctorComponent = () =>{
    return(
        <div>
            <br /><br />
-           <div className = "container">
+           <div className = "container" style={{marginTop:'200px'}}>
                 <div className = "row">
                     <div className = "card col-md-6 offset-md-3 offset-md-3">
                     
